@@ -2,7 +2,7 @@ import Home from "./components/Home";
 import '../src/index.css'
 function App() {
     return (
-        <div className="App">
+        <div className="App flex justify-center mx-auto">
             <Home/>
         </div>
     );
